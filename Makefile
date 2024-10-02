@@ -1,2 +1,2 @@
 make say-hello
-	console.log(Hello, World!);
+	echo "Hello, World!"
